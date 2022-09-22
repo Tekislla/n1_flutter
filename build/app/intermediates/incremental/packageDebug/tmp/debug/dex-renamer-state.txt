@@ -1,0 +1,4 @@
+#Wed Sep 21 20:43:44 BRT 2022
+base.0=C\:\\Users\\jplaz\\Documents\\n1_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
